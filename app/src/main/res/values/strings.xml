@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="add_task">Add Task</string>
+    <string name="name_upload_tutorials">name : Upload Tutorials</string>
+    <string name="details_here_we_have_a_details_of_the_task">Details:Here we have a details of the task</string>
+    <string name="edit">Edit</string>
+</resources>
